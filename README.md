@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21suciu&label=Profile%20views&color=0e75b6&style=flat" alt="21suciu" /> </p>
 
-- 🔭 I’m currently working on [Calorie-Counter](https://github.com/21Suciu/Calorie-Counter)
+- 🔭 I’m currently working on learning **Python**
 
 - 🌱 I’m currently learning **Python**
 
